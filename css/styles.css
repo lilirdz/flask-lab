@@ -1,1 +1,32 @@
-h1 { color:#FF0000; }
+h1 {
+color:#FF0000;
+}
+
+body {
+    background-color: #000;
+    text-align: center;
+}
+
+p {
+    color:#FA8072;
+    font-size: 24px;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.name {
+    font-size:36px;
+}
+
+.category {
+    color:#fff;
+    text-decoration:underline;
+}
+
+a{
+    color:#fff;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#FA8072;
+}
